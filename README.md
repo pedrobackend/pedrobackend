@@ -16,7 +16,7 @@
 🎓 Estudante de Ciência da Computação (3º semestre)  
 📍 Brasil  
 
-Focado em desenvolvimento backend, criando APIs e sistemas com foco em performance, organização e segurança.
+Desenvolvedor backend focado na criação de APIs escaláveis, seguras e bem estruturadas.
 
 ---
 
