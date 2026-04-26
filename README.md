@@ -4,16 +4,19 @@
   Backend Developer em formação
 </p>
 
+<p align="center">
+  💻 Python • FastAPI • PostgreSQL  
+  🚀 Lógica, estrutura e escalabilidade
+</p>
+
 ---
 
 ## 🚀 Sobre mim
 
 🎓 Estudante de Ciência da Computação (3º semestre)  
-💻 Focado em desenvolvimento backend  
 📍 Brasil  
 
-Atualmente trabalhando com construção de APIs, sistemas escaláveis e banco de dados.  
-Sempre buscando evoluir na lógica, estrutura e performance.
+Focado em desenvolvimento backend, criando APIs e sistemas com foco em performance, organização e segurança.
 
 ---
 
@@ -23,20 +26,17 @@ Sempre buscando evoluir na lógica, estrutura e performance.
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,git,github,vscode" />
 </p>
 
-**Python | FastAPI | PostgreSQL**  
-Lógica, estrutura e escalabilidade.
-
 ---
 
 ## 📚 Atualmente estudando
 
 - ☕ Java (iniciando)
-- 🔐 Segurança em aplicações
-- 🧠 Arquitetura de sistemas backend
+- 🔐 Segurança de aplicações
+- 🧠 Arquitetura backend
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
 🔹 Sistema de cadastro com autenticação JWT  
 🔹 API REST com FastAPI + PostgreSQL  
@@ -44,21 +44,18 @@ Lógica, estrutura e escalabilidade.
 
 ---
 
-## 📊 Estatísticas
+## 🎯 Objetivo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedroxiss7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroxiss7&layout=compact&theme=tokyonight" />
-</p>
+Evoluir como desenvolvedor backend, construindo sistemas escaláveis e seguros, prontos para uso real.
 
 ---
 
 ## 📫 Contato
 
-📧 Email: pedrodev70x7@gmail.com
+📧 Email: pedrodev70x7@gmail.com  
 
 ---
 
 <p align="center">
-  🚀 "E vivo não mais eu, mas Cristo vive em mim."
+  ✝️ "E vivo não mais eu, mas Cristo vive em mim"
 </p>
